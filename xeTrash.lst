@@ -1,0 +1,7 @@
+*.bpl
+*.dcu
+*.dcp
+*.~*
+*.bak
+*.local
+*__history
